@@ -48,7 +48,7 @@
   <summary>Client</summary>
   <ul>
     <li><a href="https://html.org/">html</a></li>
-    <li><a href="https://html.org/">css</a></li>
+    <li><a href="https://css.org/">css</a></li>
   </ul>
 </details>
 
@@ -109,9 +109,9 @@ Alazar Eshetu
 
 👤 **Alazar**
 
-- GitHub: [@githubhandle](https://github.com/Alazar721)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Alazar721](https://github.com/Alazar721)
+- Twitter: [@alazar_eshetu](https://twitter.com/alazar_eshetu)
+- LinkedIn: [Alazar Eshetu](https://linkedin.com/in/alazar-eshetu)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
