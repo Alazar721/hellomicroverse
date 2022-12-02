@@ -4,8 +4,7 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  
 
   <h3><b>First Week Microverse README Template</b></h3>
 
